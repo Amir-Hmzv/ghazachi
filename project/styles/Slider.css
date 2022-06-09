@@ -1,0 +1,30 @@
+
+.swiper-pagination-bullet {
+  background: red !important;
+  border-radius: 7px !important;
+  width: 20px !important;
+  padding: 5px !important;
+}
+
+
+*{
+  box-sizing: border-box !important;
+  padding: 0;
+  margin: 0;
+}
+
+.shadow-custom{
+  box-shadow: 0 0 10px #FF2B00;
+}
+.shadow-custom2{
+  box-shadow: 0 0 16px #fa785e;
+}
+
+.bgVideo{
+  background-image: url(../public//bgImage.png);
+}
+
+.xx{
+  width: 100%;
+  height: auto;
+}
